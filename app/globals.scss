@@ -1268,3 +1268,10 @@ order: 2;
   flex-direction: column;
 }
  }
+@media screen and (max-width: 400px){
+.topbar_subsection p {
+ 
+  font-size: 12px;
+ }
+
+}
