@@ -60,7 +60,7 @@ const VideoSection = () => {
           <div className="video_text">
             <h3 className="vtitle">BIM PROFESSIONAL COURSE FOR ARCHITECTS</h3>
             <h3 className="vtitle2">
-              Enter the AEC industry's most<span> in-demand </span>{" "}
+              Enter the AEC industries most<span> in-demand </span>{" "}
               specialisation.
             </h3>
             <p>
